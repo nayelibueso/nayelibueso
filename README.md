@@ -1,8 +1,24 @@
 ## Hi there 👋
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@nayelibueso509812/30-nites-of-code)  
-  ![@nayelibueso509812 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nayelibueso509812)
+##Skills
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</p>
+
+##Contact Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="nayelibueso50@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
+
+
+
 <!--
 **nayelibueso/nayelibueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
