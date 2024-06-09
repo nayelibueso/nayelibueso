@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@nayelibueso509812/30-nites-of-code)  
+  ![@nayelibueso509812 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nayelibueso509812)
 <!--
 **nayelibueso/nayelibueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
