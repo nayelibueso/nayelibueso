@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="nayelibueso50@gmail.com">
+  <a href="mailto: nayelibueso50@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
   </a>
 </p>
