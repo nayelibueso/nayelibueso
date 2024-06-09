@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-##Skills
+## Skills
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-##Contact Me:
+## Contact Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
