@@ -9,7 +9,7 @@
 
 ## Contact Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/nayeli-bueso-5b044b172">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="mailto: nayelibueso50@gmail.com">
