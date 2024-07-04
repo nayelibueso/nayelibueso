@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@nayelibueso/30-nites-of-code)  
-  ![@nayelibueso #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nayelibueso)
 
 ## Skills
 <p align="left">
